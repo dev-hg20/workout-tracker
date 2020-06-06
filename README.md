@@ -15,7 +15,7 @@ The technologies used to create this application include:
 
 ## Deployment
 
-This application has been deployed across Heroku, you can view this here:
+This application has been deployed across Heroku, you can view this here: https://git.heroku.com/secure-plains-32563.git
 
 ## Application Preview
 
