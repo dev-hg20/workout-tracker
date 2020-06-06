@@ -20,10 +20,10 @@ This application has been deployed across Heroku, you can view this here: https:
 ## Application Preview
 
 Preview of the application below:
-![preview-application](public\Assets\preview-application.PNG)
+![preview-application](public/Assets/preview-application.PNG)
 
 Statistics page below:
-![statistics](public\Assets\statistics.PNG)
+![statistics](public/Assets/statistics.PNG)
 
 Fitness tracker page below:
-![tracker](public\Assets\tracker.PNG)
+![tracker](public/Assets/tracker.PNG)
